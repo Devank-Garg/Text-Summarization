@@ -7,8 +7,6 @@ The project is designed to work with various types of text data, including news 
 -  Usage
 +  Extractive Summarization
 *  Abstractive Summarization
--  Contributing
-+  License
   
 # Installation
 Clone the repository to your local machine.
