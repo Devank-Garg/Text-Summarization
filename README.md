@@ -3,12 +3,12 @@ This project aims to provide both extractive and abstractive text summarization 
 The project is designed to work with various types of text data, including news articles, research papers, and web pages.
 
 # Table of Contents
-  Installation
-  Usage
-  Extractive Summarization
-  Abstractive Summarization
-  Contributing
-  License
+*  Installation
+-  Usage
++  Extractive Summarization
+*  Abstractive Summarization
+-  Contributing
++  License
   
 # Installation
 Clone the repository to your local machine.
