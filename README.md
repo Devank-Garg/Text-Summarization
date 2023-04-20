@@ -25,4 +25,3 @@ The abstractive summarization technique involves generating a summary that may c
 
 The abs_summary() function in the FunctionS.py uses a transformer based 'State Of The Art' model 'PEGASUS-XSUM' to generate a summary. The function first preprocesses the input text by tokenizing the sentences and applying various NLP techniques. It captures the essence of the original text.
 
-#TEST
