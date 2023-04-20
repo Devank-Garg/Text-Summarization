@@ -24,3 +24,5 @@ The summarizer() function in the FunctionS.py uses natural language processing (
 The abstractive summarization technique involves generating a summary that may contain new phrases or sentences not present in the original text. This technique is more challenging than extractive summarization, as it requires the model to understand the meaning of the original text and generate a summary that captures its essence.
 
 The abs_summary() function in the FunctionS.py uses a transformer based 'State Of The Art' model 'PEGASUS-XSUM' to generate a summary. The function first preprocesses the input text by tokenizing the sentences and applying various NLP techniques. It captures the essence of the original text.
+
+#TEST
