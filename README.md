@@ -18,8 +18,9 @@ pip install -r requirements.txt
 2. Create a python env 
 3. Install requirement.txt
 4. Download the weight file from the drive link
-5. place it the folder directory along with config.json
-6. Run APPLICATION.py
+5. [Drive Link For Weight File](https://drive.google.com/file/d/1ZnlUmouraXeiV1ilWk2AM5ErJ7BQqZTW/view?usp=sharing)
+6. Place it the folder directory along with config.json
+7. Run APPLICATION.py
 
 
 # Extractive Summary
