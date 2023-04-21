@@ -14,6 +14,13 @@ Install the required dependencies by running the following command:
 pip install -r requirements.txt
 
 # Usage
+1. Download the zip file
+2. Create a python env 
+3. Install requirement.txt
+4. Download the weight file from the drive link
+5. place it the folder directory along with config.json
+6. Run APPLICATION.py
+
 
 # Extractive Summary
 The extractive summarization technique involves selecting the most important sentences or phrases from the original text and combining them to form a summary. This technique is based on the assumption that the most important information in a text is typically contained in the most frequently occurring or most significant sentences.
