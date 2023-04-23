@@ -70,6 +70,12 @@ p.lead{
 .social_icon li a:hover {
     transform: translateY(-10px);
 }
+.footer-text{
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    font-size: 25px;
+}
 .waves{
      position: absolute;
      top: -8px;
