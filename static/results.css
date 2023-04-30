@@ -126,30 +126,32 @@ body{
     background-color: rgb(50, 205, 71);
     margin-left: 20px;
 }
-#home-button {
-    display: block;
-    width: 350px;
-    height: 100px;
-    line-height: 50px;
-    text-align: center;
-    background-color: #f44336;
-    color: #fff;
-    border-radius: 50%;
-    font-size: 24px;
-    text-decoration: none;
-    transition: all 0.2s ease-in-out;
-  }
-  
-  #home-button:hover {
-    background-color: #fff;
-    color: #f44336;
-    transform: scale(1.1);
-  }
-  .button-text {
-    display: block;
-    margin-top: 10px;
-    color: #000;
-    font-size: 14px;
+  .neon-button {
+    display: inline;
+    width: max-content;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
     font-weight: bold;
-    text-transform: uppercase;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    background-color: orange;
+    box-shadow: 0 0 0px #00ff00;
+    border: none;
+    transform: scale(1.1);
+    transition: all 0.3s ease-in-out;
   }
+
+  .neon-button:hover {
+    box-shadow: 0 0 20px yellow;
+    background-color: #fff;
+    text-shadow: 0 0 0px yellow;, 0 0 10px orange;, 0 0 20px #00ff00;
+    color: #000;
+  }
+.footer-text{
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    font-size: 25px;
+}
